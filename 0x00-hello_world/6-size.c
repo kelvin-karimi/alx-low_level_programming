@@ -1,8 +1,8 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
- * main - print out sizes of data types in c 
+ * main - print out sizes of data types in c
  * code by kelvin
- * Return: 0 
+ * Return: 0
 */
 int main(void)
 {
