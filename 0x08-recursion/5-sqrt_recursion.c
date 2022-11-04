@@ -1,4 +1,4 @@
-include "main.h"
+ #include "main.h"
 
 /**
  * check - checks for the square root
